@@ -6,10 +6,11 @@ I'm currently active learning in <a href="https://dicoding.com/">Dicoding Academ
 
 - 🌱 I’m currently learning about front-end & back-end web apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: [Instagram](https://instagram.com/_yuda23_)
+- 📫 How to reach me: [Instagram](https://instagram.com/egyyudanugraha)
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" /></a>
   <br>
