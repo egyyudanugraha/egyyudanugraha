@@ -10,9 +10,9 @@ I'm currently active learning in <a href="https://dicoding.com/">Dicoding Academ
 
 ### Tech Stack
   <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" /></a>
+  <a href="https://react.dev/"><img align="left" alt="React.js" title="React.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="Next.js" title="Next.js" width="21px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" /></a>
   <br>
   <br>
   
